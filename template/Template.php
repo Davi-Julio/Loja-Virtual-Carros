@@ -31,8 +31,8 @@ include_once './Controller/controller.php';
       <ul>
         <li><a href="<?php $BASE_URL ?>/">Home</a></li>
         <li><a href="">Products</a></li>
-        <li><a href="">About</a></li>
-        <li><a href="">Contact</a></li>
+        <li> <a id="carrinhoLink" href="ver_carrinho.php">Ver Carrinho</a></li>
+        <li><a href="">About Us</a></li>
       </ul>
     </nav>
     <!--nav-->

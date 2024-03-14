@@ -44,6 +44,16 @@
   border-bottom: 0px;
 }
 
+#carrinhoLink{
+  color: #000;
+  font-weight: 800;
+  border-bottom: 1px solid brown ;
+}
+
+#carrinhoLink:hover{
+  transition: 0.3s;
+  border-bottom: 0px ;
+}
 /* End Style Header*/
 
 /* Style Section*/
