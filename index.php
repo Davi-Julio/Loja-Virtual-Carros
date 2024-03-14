@@ -56,7 +56,6 @@ include_once "./template/Template.php"
 </section>
 <!--Section-->
 
-
 <main class="main-store">
   <div class="title-main-store">
     <h1>Encontre os Melhoress Carros!
